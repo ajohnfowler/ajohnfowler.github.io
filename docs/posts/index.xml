@@ -5,28 +5,7 @@
         <description>Recent content in Posts on Adam Fowler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 20 Apr 2021 22:48:12 -0300</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Led Matrix</title>
-            <link>/posts/2021/04/led-matrix/</link>
-            <pubDate>Tue, 20 Apr 2021 22:48:12 -0300</pubDate>
-            
-            <guid>/posts/2021/04/led-matrix/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>My Hugo Site</title>
-            <link>/posts/2021/04/my-hugo-site/</link>
-            <pubDate>Tue, 20 Apr 2021 22:48:03 -0300</pubDate>
-            
-            <guid>/posts/2021/04/my-hugo-site/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
         
     </channel>
 </rss>

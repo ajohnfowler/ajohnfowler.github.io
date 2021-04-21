@@ -8,7 +8,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
