@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
