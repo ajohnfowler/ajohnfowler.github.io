@@ -8,7 +8,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "docs"
+publishDir   = "public"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -17,7 +17,7 @@ publishDir   = "docs"
   name = "Adam Fowler"
 
 [taxonomies]
-    category = "blog"
+    category = "posts"
     tag      = "tags"
     series   = "series"
 
@@ -39,8 +39,8 @@ publishDir   = "docs"
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "My new homepage or posts"
+  keywords = "homepage, posts"
   images = [""]
 
   [params.logo]
