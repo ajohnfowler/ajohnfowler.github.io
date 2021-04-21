@@ -1,0 +1,100 @@
+baseurl      = "/"
+title        = "Adam Fowler"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "docs"
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Adam Fowler"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "I do computer stuff ;)"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  enableThemeToggle = true
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+  
+  footer = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+
+  [params.favicon.color]
+  mask = "#1b1c1d"
+  msapplication = "#1b1c1d"
+  theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/AdamFow1er"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:ajohnfowler@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/ajohnfowler"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ajohnfowler/"
+
+[languages]
+  [languages.en]
+    title = "Hi, I'm Adam"
+    subtitle = "I do computer stuff ;)"
+    keywords = ""
+    copyright = ''
+    readOtherPosts = "Read other posts"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
