@@ -3,48 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2021-04-21T08:05:21-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2021-04-21T08:05:21-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2021-04-21T08:05:17-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/projects/</loc>
-    <lastmod>2021-04-21T08:05:17-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/2021/04/led-matrix/</loc>
-    <lastmod>2021-04-20T22:48:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-04-20T22:48:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-20T22:48:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/untagged/</loc>
-    <lastmod>2021-04-20T22:48:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/2021/04/my-hugo-site/</loc>
-    <lastmod>2021-04-20T22:48:03-03:00</lastmod>
   </url>
   
   <url>
@@ -53,6 +12,10 @@
   
   <url>
     <loc>/series/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
