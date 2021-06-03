@@ -6,29 +6,9 @@
     <description>Recent content on Adam Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 08:05:21 -0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 21 Apr 2021 08:05:21 -0300</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I&amp;rsquo;m a Dartmouth based software developer, Acadia graduate with a degree in Computer Science, and passion for video game development and all things computers.
-I always strive for personal improvement; I continuously explore new and existing technologies to expand my knowledge of computer science and electronics.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Wed, 21 Apr 2021 08:05:21 -0300</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Itch.io: https://adamfowler.itch.io/</description>
-    </item>
     
   </channel>
 </rss>
