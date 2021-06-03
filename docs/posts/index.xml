@@ -5,7 +5,54 @@
         <description>Recent content in Posts on Adam Fowler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
+        <lastBuildDate>Tue, 20 Apr 2021 22:48:12 -0300</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Led Matrix</title>
+            <link>/posts/2021/04/led-matrix/</link>
+            <pubDate>Tue, 20 Apr 2021 22:48:12 -0300</pubDate>
+            
+            <guid>/posts/2021/04/led-matrix/</guid>
+            <description>The Build:
+Electronics:
+ ESP32 Dev Board 3 x 5M WSB12B LED strips Power Cable 150W 5V Power Supply  Frame:
+ Diffusion material (Thin curtain) Wood Backing board (Foam core board)  Tools:
+ Solding Iron Solder Wire  Used 2 1&amp;quot;x3&amp;quot;x6&amp;rsquo; pine boards Used 2 foam core boards from the dollar store User a curtain from the dollar store
+Start by testing all the compoents are working.
+After all the componets are confirmed to be working I cut the leds down to 1m lengths and re-wired the ends to allow them to be mounted on the backing board.</description>
+            <content type="html"><![CDATA[<p>The Build:</p>
+<p>Electronics:</p>
+<ul>
+<li>ESP32 Dev Board</li>
+<li>3 x 5M WSB12B LED strips</li>
+<li>Power Cable</li>
+<li>150W 5V Power Supply</li>
+</ul>
+<p>Frame:</p>
+<ul>
+<li>Diffusion material (Thin curtain)</li>
+<li>Wood</li>
+<li>Backing board (Foam core board)</li>
+</ul>
+<p>Tools:</p>
+<ul>
+<li>Solding Iron</li>
+<li>Solder</li>
+<li>Wire</li>
+</ul>
+<p>Used 2 1&quot;x3&quot;x6&rsquo; pine boards
+Used 2 foam core boards from the dollar store
+User a curtain from the dollar store</p>
+<p>Start by testing all the compoents are working.</p>
+<p>After all the componets are confirmed to be working I cut the leds down to 1m lengths and re-wired the ends to allow them to be mounted on the backing board.</p>
+<p>The board I used was 20&quot;x40&rdquo; in size. Each strip was mounted starting with the center then spacing evnly every 3.3cm to give a nice grid to the leds.</p>
+<p>The Code:</p>
+<p>For this I used <a href="https://platformio.org/">platformIO</a> with Visual Studio Code.</p>
+<p>All the is freely availiable under the MIT licencice on <a href="https://github.com/ajohnfowler/Led-Panel">GitHub</a>.</p>
+<p>Final Result:</p>
+]]></content>
+        </item>
         
     </channel>
 </rss>
